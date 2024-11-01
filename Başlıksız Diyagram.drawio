@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Sayfa -1" id="Sdfj-GC8wiDZE4e8GERv">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-1" value="Operations &amp;&#xa;Human Resources" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVbkqIIo09KomOK0cmno-5" value="Entwicklung &amp;&#xa;Plattform" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVbkqIIo09KomOK0cmno-6" value="Produkt &amp;&#xa;Design" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVbkqIIo09KomOK0cmno-7" value="Support &amp;&#xa;Vertrieb" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVbkqIIo09KomOK0cmno-8" value="Marketing &amp;&#xa;Content" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
