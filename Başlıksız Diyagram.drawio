@@ -4,20 +4,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oVbkqIIo09KomOK0cmno-1" value="Operations &amp;&#xa;Human Resources" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="130" height="50" as="geometry" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-1" value="Operations &amp; &#xa;Human Resources" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="30" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oVbkqIIo09KomOK0cmno-5" value="Entwicklung &amp;&#xa;Plattform" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="110" height="50" as="geometry" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-5" value="Entwicklung &amp; &#xa;Plattform" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oVbkqIIo09KomOK0cmno-6" value="Produkt &amp;&#xa;Design" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="90" height="50" as="geometry" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-6" value="Produkt &amp; &#xa;Design" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oVbkqIIo09KomOK0cmno-7" value="Support &amp;&#xa;Vertrieb" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="90" height="50" as="geometry" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-7" value="Support &amp; &#xa;Vertrieb" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oVbkqIIo09KomOK0cmno-8" value="Marketing &amp;&#xa;Content" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="230" width="100" height="50" as="geometry" />
+        <mxCell id="oVbkqIIo09KomOK0cmno-8" value="Marketing &amp; &#xa;Content" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-3" value="Management" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="296" height="270" as="geometry">
+            <mxRectangle x="344" y="250" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-4" value="MRR - Monthly Recurring Revenue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="30" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-5" value="ARR - Annual Recurring Revenue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="60" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-6" value="CLV - Customer Lifetime Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="90" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-7" value="Churn Rate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="120" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-8" value="NPS - Net Promoter Score" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="150" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-9" value="ROI - Return on Investment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="180" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-10" value="Total Number of Customers" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="210" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-11" value="Customer Growth Rate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7crULtzWD0FGvb5_Vqq5-3">
+          <mxGeometry y="240" width="296" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-22" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Operations &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Human Resources&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Turnover Rate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Employee Satisfaction Score&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Productivity Rate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Marketing &amp;amp; Content&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ROI - Return on Investment&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CTR - Open Rate &amp;amp; Click-Through Rate&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Conversion Rate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-24" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Entwicklung &amp;amp; Plattform&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System Stability - Downtime &amp;amp; Uptime&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Development Speed&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Bug/Error Rate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Produkt &amp;amp; Design&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UX Score - User Experience Score&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Product Launch Success Rate&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;User Engagement Rate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="660" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7crULtzWD0FGvb5_Vqq5-26" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Support &amp;amp; Vertrieb&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CSAT - Customer Satisfaction Score&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;First Contact Resolution Rate&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Sales Conversion Rate&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Churn Rate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
