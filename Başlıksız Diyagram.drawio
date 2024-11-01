@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7crULtzWD0FGvb5_Vqq5-22" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;Operations &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Human Resources&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Turnover Rate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Employee Satisfaction Score&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Productivity Rate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1440" width="210" height="210" as="geometry" />
+          <mxGeometry x="100" y="1010" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7crULtzWD0FGvb5_Vqq5-23" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Marketing &amp;amp; Content&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ROI - Return on Investment&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CTR - Open Rate &amp;amp; Click-Through Rate&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Conversion Rate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="1440" width="210" height="210" as="geometry" />
@@ -46,8 +46,14 @@
         <mxCell id="HHlcEhXnxuv5z8YPJ7dc-4" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Operations &amp;amp;&amp;nbsp;Human Resources&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-5" value="&lt;b&gt;ROI Return on Investment:&lt;/b&gt;&amp;nbsp;Der Kampagnen-ROI ist entscheidend, um die Effektivität von Marketingkampagnen und den Wert der Marketingausgaben des Unternehmens zu verstehen. Ein hoher ROI zeigt, dass die Kampagnen erfolgreich sind." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-5" value="&lt;b&gt;Turnover Rate:&lt;/b&gt;&amp;nbsp;Eine hohe Mitarbeiterfluktuation erhöht die Betriebskosten und verringert die Effizienz. Dieser KPI ist wichtig, um die Mitarbeiterzufriedenheit und die Effektivität der Einstellungsprozesse zu bewerten." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="700" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-6" value="&lt;b&gt;Employee Satisfaction Score:&lt;/b&gt;&amp;nbsp;Wenn die Mitarbeiter zufrieden sind, arbeiten sie besser und bleiben länger im Unternehmen. Zufriedene Mitarbeiter sorgen auch für zufriedenere Kunden." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-7" value="&lt;b&gt;Productivity Rate:&lt;/b&gt;&amp;nbsp;Die Messung der Mitarbeiterproduktivität ist entscheidend für die Verbesserung der Betriebsprozesse und die effiziente Nutzung der Ressourcen." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="760" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
