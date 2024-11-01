@@ -73,8 +73,23 @@
         <mxCell id="HHlcEhXnxuv5z8YPJ7dc-18" value="&lt;b&gt;Product Launch Success Rate:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Der Erfolg der Einführung neuer Produkte oder Funktionen zeigt die Effizienz des Produktentwicklungsprozesses und die Anpassungsfähigkeit an den Markt.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="1670" width="760" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-19" value="&lt;b&gt;Bug/Error Rate:&lt;/b&gt;&amp;nbsp;Die Fehlerquote wirkt sich auf die Softwarequalität und die Benutzererfahrung aus. Eine geringere Fehlerquote verbessert die Kundenzufriedenheit." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-19" value="&lt;b&gt;User Engagement Rate:&lt;/b&gt;&amp;nbsp;Die Messung der Benutzerinteraktion mit dem Produkt ist wichtig, um zu bewerten, wie attraktiv das Design und die Funktionen sind." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="1740" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-20" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Support &amp;amp; Vertrieb&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1840" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-21" value="&lt;b&gt;User Engagement Rate:&lt;/b&gt;&amp;nbsp;Die Zufriedenheit mit den Supportprozessen erhöht die Kundenbindung und schafft eine positive Kundenerfahrung." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1900" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-22" value="&lt;b&gt;First Contact Resolution Rate:&lt;/b&gt;&amp;nbsp;Die Lösung von Kundenproblemen beim ersten Kontakt erhöht die Kundenzufriedenheit und zeigt die Effizienz des Support-Teams." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1970" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-23" value="&lt;b&gt;Sales Conversion Rate:&lt;/b&gt;&amp;nbsp;Die Umwandlungsrate potenzieller Kunden in tatsächliche Kunden misst den Erfolg des Vertriebsteams und die Effektivität der Marketingstrategien." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2040" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHlcEhXnxuv5z8YPJ7dc-24" value="&lt;b&gt;Churn Rate:&lt;/b&gt;&amp;nbsp;Die Churn-Rate ist eine wichtige Kennzahl, um den Kundenverlust zu messen und die Effektivität der Kundenzufriedenheit und des After-Sales-Services zu bewerten." style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2110" width="760" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
